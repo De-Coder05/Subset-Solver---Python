@@ -1,1 +1,1 @@
-# Subset-Solver---Python
+# Subset-Solver-Python
